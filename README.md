@@ -4,9 +4,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=𝗦𝗧𝗥𝗜𝗡𝗚+𝗛𝗔𝗖𝗞+𝗕𝗢𝗧+𝗕𝗬+𝗡𝗔𝗥𝗨𝗝𝗔𝗔𝗧">
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAXXTEAM&repo=DAXXSTRINGHACK&theme=flag-india)
-[![GIF](https://github.com/DAXXTEAM/DAXXSTRINGHACK/blob/main/DAXXTEAM.gif)](https://github.com/DAXXTEAM)
-   [![𝗡𝗔𝗥𝗨 𝗝𝗔𝗔𝗧](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NARUJAAT&repo=NARUSTHACK&theme=flag-india)
+[![GIF](https://github.com/NARENDRAGITALA/NARUSTHACK/blob/main/DAXXTEAM.gif)](https://github.com/NARENDRAGITALA)
+   [![𝗡𝗔𝗥𝗨 𝗝𝗔𝗔𝗧](https://github-stats-alpha.vercel.app/api?username=NARENDRAGITALA "JAATRAJ")](https://github-stats-alpha.vercel.app/api?username=NARENDRAGITALA "NARUJAAT")
                   
 
 <p align="center">
